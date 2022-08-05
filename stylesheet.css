@@ -123,6 +123,7 @@ body {
     text-align: center;
     font-size: 1.1em;
     color: #0e2431;
+    width: 100%;
 }
 
 .logo h1 {
@@ -157,13 +158,18 @@ body {
     display: block;
     margin: 0 auto;
     width: 100%;
+    margin-bottom: 2em;
 }
 
 #welcome {
     text-align: center;
-    margin-top: 2em;
+    margin-top: 4em;
     padding: 2em;
-    border: 2px solid gray;
+    border: 1px solid gray;
+    border-radius: 20px;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 1em;
 }
 
 #welcome h1 {
@@ -182,6 +188,11 @@ body {
     text-align: center;
     padding: 2em;
     margin-top: 2em;
+    border: 1px solid gray;
+    border-radius: 20px;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 1em;
 }
 
 #doctors h3 {
