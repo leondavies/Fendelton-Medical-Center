@@ -11,7 +11,7 @@ body {
 
 .container {
     max-width: 1050px;
-    width: 95%;
+    width: 100%;
 }
 
 .navbar {
@@ -50,6 +50,7 @@ body {
     display: block;
     position: relative;
     height: 5em;
+    width: 100%;
 }
 
 .nav-container .checkbox {
