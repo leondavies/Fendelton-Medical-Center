@@ -170,10 +170,12 @@ body {
     width: 90%;
     margin: 0 auto;
     margin-bottom: 1em;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    background-color: aliceblue;
 }
 
 #welcome h1 {
-    font-size: 1em;
+    font-size: 2em;
 }
 
 #welcome p {
@@ -193,6 +195,8 @@ body {
     width: 90%;
     margin: 0 auto;
     margin-bottom: 1em;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    background-color: aliceblue;
 }
 
 #doctors h3 {
@@ -267,6 +271,13 @@ footer {
 
 #Fees-info {
     padding: 2em;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    background-color: aliceblue;
+    border: 1px solid gray;
+    border-radius: 20px;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 2em;
 }
 
 #Fees-info h1 {
@@ -293,16 +304,30 @@ footer {
 #fees-table img {
     display: block;
     width: 18em;
-    border: 1px solid black;
     margin: 0 auto;
     margin-bottom: 5em;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    background-color: aliceblue;
+    border: 1px solid gray;
+    border-radius: 15px;
+    width: 90%;
+    margin-top: 2em;
 }
 
 
 /* CONTACT US */
 
 #contact-container {
+    padding: 2em;
     margin: 2em;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    background-color: aliceblue;
+    border: 1px solid gray;
+    border-radius: 15px;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 
 #contact-address {
