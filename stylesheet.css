@@ -254,6 +254,7 @@ footer {
 
 #center-foot {
     grid-column: 2/3;
+    font-size: 0.5em;
 }
 
 #last-foot {
@@ -363,6 +364,8 @@ footer {
 
 #icons img {
     width: 3em;
+    border-radius: 50%;
+    border: 2px solid black;
 }
 
 #icons {
