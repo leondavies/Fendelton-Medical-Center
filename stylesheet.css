@@ -278,6 +278,7 @@ footer {
     display: block;
     margin: 0 auto;
     width: 100%;
+    margin-top: 5em;
 }
 
 #Fees-info {
@@ -362,6 +363,10 @@ footer {
     display: block;
     width: 100%;
     margin: 0 auto;
+}
+
+#contact-picture {
+    margin-top: 5em;
 }
 
 #googlemaps iframe {
